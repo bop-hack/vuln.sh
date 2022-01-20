@@ -19,6 +19,8 @@ bash vuln.sh 5.101.152.0 5.101.152.255 1 9
 
 
 # vuln.sh Changelog
+## v1.2
+- mysql works now
 ## v1.1
 - libs
 - last code: mysql
